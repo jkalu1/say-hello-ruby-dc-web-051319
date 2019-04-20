@@ -1,4 +1,4 @@
-def say_hello name2  
+def say_hello, name2  
   'Hello ' + name2  
 end  
 puts(say_hello 'Jonah') 
